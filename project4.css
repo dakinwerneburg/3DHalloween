@@ -1,0 +1,50 @@
+html,body{
+  margin:0;
+  padding:0;
+}
+  .userInterface{
+    background-color: #d3d3d3;
+    padding:10px;
+    height:450px;
+    width: 250px;
+    position:absolute;
+    top: 0%;
+  }
+  .title{
+    display:inline-block;
+    margin:10px;
+    width:215px;
+    background-color:#9fabb7;
+    color: #ffffff;
+    font-weight: bold;
+  }
+/*wraps the left and rightcolumns*/
+  .wrapper{
+    margin-left:10px;
+    width:235px;
+    height:350px;
+    border-style: groove;
+  }
+  .leftColumn{
+    width:180px;
+    float:left;
+  }
+  .typeofLight{
+    margin-left:20px;
+    text-decoration: underline;
+  }
+  .selection{
+    margin-left:30px;
+  }
+  #position{
+    width:115px;
+  }
+  .rightColumn{
+    width:55px;
+    float:right;
+  }
+  .animation{
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+  
